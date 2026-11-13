@@ -66,7 +66,7 @@ English, Vietnamese, Chinese (Simplified), Japanese.
 
 ## Privacy
 
-All data is stored locally on the device and encrypted with AES-256; the key is protected by Windows Data Protection (DPAPI). The app connects only to Google (Gmail API) and Microsoft (Microsoft Graph). No analytics, telemetry or advertising. See the [Privacy Policy](../docs/privacy-policy.md).
+All data is stored locally on the device and encrypted with AES-256; the key is protected by Windows Data Protection (DPAPI). The app connects only to Google (Gmail API) and Microsoft (Microsoft Graph). No analytics, telemetry or advertising. See the [Privacy Policy](/docs/privacy-policy.md).
 
 ## Support
 
